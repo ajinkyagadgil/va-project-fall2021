@@ -2,4 +2,4 @@
 
 Authors: Karan Issrani, Ajinkya Gadhgil, Sneha Srikant, Jolyciel Fullerton
 
-Procedure to run: Please run app.py
+Procedure to run: streamlit run app.py
