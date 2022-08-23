@@ -1,6 +1,7 @@
 # Netflix Data Visualization
-- The project visualize the netflix data set to analyze various factors such as Number of movies and series, Content producing contries, Netflix revenue, subsrcibers and profit over the years and content type.
 
+## Introduction
+- The project visualize the netflix data set to analyze various factors such as Number of movies and series, Content producing contries, Netflix revenue, subsrcibers and profit over the years and content type.
 - The project is deployed on Heroku at [Netflix Data Visualization](https://prj-grp-11.herokuapp.com).
 
 
